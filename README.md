@@ -15,5 +15,6 @@ Meccanoid_Servo_Move_Input_Degrees
 
 Enter the same calibration data into this file and the serial monitor becomes the servo controller.
 
+Compile Error 
 
-
+If you get the error described in the photo, use the meccanoid.zip library here, it was modified in Nov 2019.
