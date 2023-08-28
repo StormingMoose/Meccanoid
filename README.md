@@ -3,6 +3,9 @@
 # Meccanoid
 Mecccanoid Servo Examples for Uno and Esp32
 
+Updated Aug 27, 2023
+
+updated to the Meccanoid2023.zip library file
 
 Two program files are included 
 
